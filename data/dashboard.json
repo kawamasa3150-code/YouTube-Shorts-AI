@@ -1,6 +1,6 @@
 {
   "issue": "20260904",
-  "updated_at_label": "2026.09.04 13:57",
+  "updated_at_label": "2026.09.04 14:00",
   "candidates": [
     {
       "video_id": "1wO58XWBKSw",
@@ -57,6 +57,132 @@
       "demo": false
     },
     {
+      "video_id": "wQqdfbOZHyU",
+      "title": "Why Do Snakes Live Separately? #shorts",
+      "url": "https://www.youtube.com/shorts/wQqdfbOZHyU",
+      "channel": "Think Blaze",
+      "published_label": "2026-09-01",
+      "views": 189957,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 84,
+      "reason": "機械一次評価。公開後約3.1日、1日平均約61,192再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "ryXJJ-jK0oA",
+      "title": "What Happens Inside Your Body When You Eat an Egg? 🥚💪",
+      "url": "https://www.youtube.com/shorts/ryXJJ-jK0oA",
+      "channel": "TinyBody3D ",
+      "published_label": "2026-08-29",
+      "views": 156872,
+      "category": "body",
+      "category_label": "人体",
+      "score": 82,
+      "reason": "機械一次評価。公開後約6.53日、1日平均約24,026再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "DO7l_WeoNko",
+      "title": "Smoking vs Pineapple :What Happens Inside Your Body🫁🍍",
+      "url": "https://www.youtube.com/shorts/DO7l_WeoNko",
+      "channel": "NutriWise Health",
+      "published_label": "2026-08-28",
+      "views": 95592,
+      "category": "body",
+      "category_label": "人体",
+      "score": 81,
+      "reason": "機械一次評価。公開後約6.99日、1日平均約13,676再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "UtZzkljyq0k",
+      "title": "How do these animals even exist 😭",
+      "url": "https://www.youtube.com/shorts/UtZzkljyq0k",
+      "channel": "CobbleCat",
+      "published_label": "2026-08-31",
+      "views": 170586,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 80,
+      "reason": "機械一次評価。公開後約3.79日、1日平均約44,989再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "Ue-GRGLlGaQ",
+      "title": "What Happens Inside Your Body When You Eat Eggs? 🥚👀 #shorts",
+      "url": "https://www.youtube.com/shorts/Ue-GRGLlGaQ",
+      "channel": "HumanXRay ",
+      "published_label": "2026-08-29",
+      "views": 63995,
+      "category": "body",
+      "category_label": "人体",
+      "score": 80,
+      "reason": "機械一次評価。公開後約5.85日、1日平均約10,941再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "nAZ5P4xcoK8",
+      "title": "Why Do Crocodiles Cry While Eating..The Truth Is Unexpected 😳",
+      "url": "https://www.youtube.com/shorts/nAZ5P4xcoK8",
+      "channel": "Wildnity Paws",
+      "published_label": "2026-08-28",
+      "views": 58316,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 80,
+      "reason": "機械一次評価。公開後約6.92日、1日平均約8,431再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "GugWFw5YeJw",
+      "title": "What Happens When You Swallow Watermelon Seeds? 🍉😱#anatomy #humanbody #shorts",
+      "url": "https://www.youtube.com/shorts/GugWFw5YeJw",
+      "channel": "Healthvibess",
+      "published_label": "2026-08-31",
+      "views": 39836,
+      "category": "body",
+      "category_label": "人体",
+      "score": 80,
+      "reason": "機械一次評価。公開後約4.58日、1日平均約8,691再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
       "video_id": "AOmFZhlOpks",
       "title": "What if the Pole broke during Pole Vault ? #shorts",
       "url": "https://www.youtube.com/shorts/AOmFZhlOpks",
@@ -67,6 +193,24 @@
       "category_label": "What If",
       "score": 79,
       "reason": "機械一次評価。公開後約6.85日、1日平均約91,178再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "i91Fng89qoM",
+      "title": "Why Does This Cat Act Like It Still Has a Missing Leg? 🐱😮 #shorts",
+      "url": "https://www.youtube.com/shorts/i91Fng89qoM",
+      "channel": "KOWA",
+      "published_label": "2026-08-29",
+      "views": 141993,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 77,
+      "reason": "機械一次評価。公開後約6.03日、1日平均約23,543再生。フック・構成・権利・事実は人間の確認が必要。",
       "japanese_ideas": [
         "元動画の疑問を、日本の日常例で説明する",
         "同じ仕組みが起きる別の対象と比較する",
