@@ -27,7 +27,8 @@ function cardTemplate(item, index, decision) {
       </div>
       <div class="card-body">
         <div class="meta"><span>${escapeHtml(item.category_label)} · ${formatViews(item.views)}回</span>${item.demo ? '<span class="demo-label">DEMO</span>' : ""}</div>
-        <h3>${escapeHtml(item.title)}</h3>
+        <h3>${escapeHtml(item.title_ja || item.title)}</h3>
+        ${item.title_ja ? `<p class="original-title">原題：${escapeHtml(item.title)}</p>` : ""}
         <p class="channel">${escapeHtml(item.channel)} · ${escapeHtml(item.published_label)}</p>
         <div class="score-line"><span>おすすめ</span><span class="meter"><i style="width:${item.score}%"></i></span><strong>${item.score}</strong></div>
         <p class="reason">${escapeHtml(item.reason)}</p>
