@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f1efe8">
+  <title>Shorts 発見ノート</title>
+  <link rel="stylesheet" href="assets/dashboard.css">
+</head>
+<body>
+  <header class="masthead">
+    <div>
+      <p class="eyebrow">YOUTUBE SHORTS · DAILY RESEARCH</p>
+      <h1>発見ノート</h1>
+    </div>
+    <div class="date-block">
+      <span>最終更新</span>
+      <strong id="updated-at">—</strong>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro">
+      <div>
+        <p class="issue">ISSUE <span id="issue-number">001</span></p>
+        <h2>今日見るべき<br><em>小さな謎</em>。</h2>
+      </div>
+      <p class="intro-copy">伸び始めた短尺動画から、コピーではなく「使える型」だけを見つけるためのリサーチ画面です。</p>
+    </section>
+
+    <section class="summary" aria-label="本日の集計">
+      <div><span>新着候補</span><strong id="new-count">0</strong></div>
+      <div><span>最高スコア</span><strong id="top-score">—</strong></div>
+      <div><span>採用候補</span><strong id="selected-count">0</strong></div>
+    </section>
+
+    <nav class="filters" aria-label="候補の絞り込み">
+      <button class="filter active" data-filter="all">すべて</button>
+      <button class="filter" data-filter="unreviewed">未確認</button>
+      <button class="filter" data-filter="selected">採用候補</button>
+      <button class="filter" data-filter="hold">保留</button>
+      <button class="filter" data-filter="rejected">見送り</button>
+    </nav>
+
+    <section id="cards" class="cards" aria-live="polite"></section>
+    <section id="empty" class="empty" hidden>
+      <p>この条件の候補はまだありません。</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>公開情報のみを表示 · 台本・投稿成績・APIキーは掲載しません</p>
+  </footer>
+  <script src="assets/dashboard.js" defer></script>
+</body>
+</html>
