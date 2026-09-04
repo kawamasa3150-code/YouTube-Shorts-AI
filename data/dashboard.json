@@ -1,0 +1,48 @@
+{
+  "issue": "001",
+  "updated_at_label": "2026.09.03  試作版",
+  "candidates": [
+    {
+      "video_id": "demo-animal-001",
+      "title": "猫が段ボール箱に入りたがるのはなぜ？",
+      "url": "https://www.youtube.com/results?search_query=%E7%8C%AB+%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB+Shorts",
+      "channel": "実データ接続前の表示例",
+      "published_label": "サンプル",
+      "views": 1860000,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 92,
+      "reason": "かわいい動物の行動を冒頭で見せ、その理由を短時間で回収できる構造の例です。",
+      "japanese_ideas": ["猫はなぜ狭い場所で安心する？", "箱の大きさで反応は変わる？", "野生の猫にも同じ習性がある？"],
+      "demo": true
+    },
+    {
+      "video_id": "demo-body-001",
+      "title": "眠る瞬間、体がビクッとなる理由",
+      "url": "https://www.youtube.com/results?search_query=%E5%85%A5%E7%9C%A0%E6%99%82+%E3%83%93%E3%82%AF%E3%83%83+Shorts",
+      "channel": "実データ接続前の表示例",
+      "published_label": "サンプル",
+      "views": 740000,
+      "category": "body",
+      "category_label": "人体",
+      "score": 87,
+      "reason": "多くの人が経験する現象を、強い共感と疑問から始められる題材の例です。",
+      "japanese_ideas": ["寝落ち寸前に音が聞こえるのは？", "夢の中で落ちる感覚の正体", "金縛りは体で何が起きている？"],
+      "demo": true
+    },
+    {
+      "video_id": "demo-science-001",
+      "title": "マンホールが丸く作られている理由",
+      "url": "https://www.youtube.com/results?search_query=%E3%83%9E%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB+%E4%B8%B8%E3%81%84+Shorts",
+      "channel": "実データ接続前の表示例",
+      "published_label": "サンプル",
+      "views": 420000,
+      "category": "science",
+      "category_label": "身近な科学",
+      "score": 81,
+      "reason": "毎日見かける物に隠れた設計上の理由を、図解で直感的に説明できる題材の例です。",
+      "japanese_ideas": ["点字ブロックが黄色い理由", "電柱に穴が開いている理由", "道路の白線に隙間がある理由"],
+      "demo": true
+    }
+  ]
+}
