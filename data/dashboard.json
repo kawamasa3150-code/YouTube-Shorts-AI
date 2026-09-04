@@ -1,48 +1,276 @@
 {
-  "issue": "001",
-  "updated_at_label": "2026.09.03  試作版",
+  "issue": "20260904",
+  "updated_at_label": "2026.09.04 10:52",
   "candidates": [
     {
-      "video_id": "demo-animal-001",
-      "title": "猫が段ボール箱に入りたがるのはなぜ？",
-      "url": "https://www.youtube.com/results?search_query=%E7%8C%AB+%E6%AE%B5%E3%83%9C%E3%83%BC%E3%83%AB+Shorts",
-      "channel": "実データ接続前の表示例",
-      "published_label": "サンプル",
-      "views": 1860000,
+      "video_id": "4-ETA4F8skk",
+      "title": "చనిపోయే ముందు ఈ జంతువులు ఏమి చేస్తాయో తెలుసా? 😭 #shorts #telugufacts #amazingfacts",
+      "url": "https://www.youtube.com/shorts/4-ETA4F8skk",
+      "channel": "Satya's talks01",
+      "published_label": "2026-08-29",
+      "views": 3884766,
       "category": "animal",
       "category_label": "動物・生態",
-      "score": 92,
-      "reason": "かわいい動物の行動を冒頭で見せ、その理由を短時間で回収できる構造の例です。",
-      "japanese_ideas": ["猫はなぜ狭い場所で安心する？", "箱の大きさで反応は変わる？", "野生の猫にも同じ習性がある？"],
-      "demo": true
+      "score": 90,
+      "reason": "機械一次評価。公開後約5.97日、1日平均約650,304再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
     },
     {
-      "video_id": "demo-body-001",
-      "title": "眠る瞬間、体がビクッとなる理由",
-      "url": "https://www.youtube.com/results?search_query=%E5%85%A5%E7%9C%A0%E6%99%82+%E3%83%93%E3%82%AF%E3%83%83+Shorts",
-      "channel": "実データ接続前の表示例",
-      "published_label": "サンプル",
-      "views": 740000,
-      "category": "body",
-      "category_label": "人体",
+      "video_id": "c0w5eBN0aAc",
+      "title": "China Buffalo Milk King 🐃 | Chinese Swamp Buffalo Breed #shorts #short #animals #facts",
+      "url": "https://www.youtube.com/shorts/c0w5eBN0aAc",
+      "channel": "Facts Duniya",
+      "published_label": "2026-08-28",
+      "views": 2497399,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 90,
+      "reason": "機械一次評価。公開後約6.94日、1日平均約360,050再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "m23eTp2BT84",
+      "title": "Friends promises in the parties 😱 #contentcreator #facts",
+      "url": "https://www.youtube.com/shorts/m23eTp2BT84",
+      "channel": "Yoyofact_1million",
+      "published_label": "2026-08-31",
+      "views": 1043443,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 90,
+      "reason": "機械一次評価。公開後約3.95日、1日平均約264,144再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "3zhAOZ5qlrI",
+      "title": "Why Do Crocodiles Swallow Stones? 🐊🪨",
+      "url": "https://www.youtube.com/shorts/3zhAOZ5qlrI",
+      "channel": "Mr mogloo",
+      "published_label": "2026-08-28",
+      "views": 908374,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 88,
+      "reason": "機械一次評価。公開後約6.9日、1日平均約131,579再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "46PUQROsl_8",
+      "title": "Esse ANIMAL Pode Ser Mais INTELIGENTE Que Você! #curiosidades #shorts",
+      "url": "https://www.youtube.com/shorts/46PUQROsl_8",
+      "channel": "Dheny Shorts",
+      "published_label": "2026-08-30",
+      "views": 485300,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 88,
+      "reason": "機械一次評価。公開後約4.83日、1日平均約100,518再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "1wO58XWBKSw",
+      "title": "Speed Kings of the Animal Kingdom… Who Takes The Crown? 💀⚡",
+      "url": "https://www.youtube.com/shorts/1wO58XWBKSw",
+      "channel": "Azat Explores",
+      "published_label": "2026-08-29",
+      "views": 4206763,
+      "category": "animal",
+      "category_label": "動物・生態",
       "score": 87,
-      "reason": "多くの人が経験する現象を、強い共感と疑問から始められる題材の例です。",
-      "japanese_ideas": ["寝落ち寸前に音が聞こえるのは？", "夢の中で落ちる感覚の正体", "金縛りは体で何が起きている？"],
-      "demo": true
+      "reason": "機械一次評価。公開後約6.35日、1日平均約662,638再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
     },
     {
-      "video_id": "demo-science-001",
-      "title": "マンホールが丸く作られている理由",
-      "url": "https://www.youtube.com/results?search_query=%E3%83%9E%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%AB+%E4%B8%B8%E3%81%84+Shorts",
-      "channel": "実データ接続前の表示例",
-      "published_label": "サンプル",
-      "views": 420000,
-      "category": "science",
-      "category_label": "身近な科学",
-      "score": 81,
-      "reason": "毎日見かける物に隠れた設計上の理由を、図解で直感的に説明できる題材の例です。",
-      "japanese_ideas": ["点字ブロックが黄色い理由", "電柱に穴が開いている理由", "道路の白線に隙間がある理由"],
-      "demo": true
+      "video_id": "CSslr0S6TrY",
+      "title": "Why Do Bears Waste Half the Salmon They Catch? #shorts",
+      "url": "https://www.youtube.com/shorts/CSslr0S6TrY",
+      "channel": "Sadatoz",
+      "published_label": "2026-08-28",
+      "views": 3668987,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 87,
+      "reason": "機械一次評価。公開後約6.74日、1日平均約544,002再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "svH0lXRtAcY",
+      "title": "The Gorilla Who Escaped Zoo to Target ONE Visitor #history #facts #shorts",
+      "url": "https://www.youtube.com/shorts/svH0lXRtAcY",
+      "channel": "JTM History",
+      "published_label": "2026-08-28",
+      "views": 1488562,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 87,
+      "reason": "機械一次評価。公開後約6.49日、1日平均約229,209再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "-2xEEa6mWQ8",
+      "title": "Dad made me a toy dinosaur #shorts #facts",
+      "url": "https://www.youtube.com/shorts/-2xEEa6mWQ8",
+      "channel": "M Facts Recipe ",
+      "published_label": "2026-09-01",
+      "views": 680851,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 87,
+      "reason": "機械一次評価。公開後約2.98日、1日平均約228,417再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "O1pOPVJZVxM",
+      "title": "\"This Is No Ordinary Fish — Meet the River Monster 🐟\" #shortsfeed #facts",
+      "url": "https://www.youtube.com/shorts/O1pOPVJZVxM",
+      "channel": "Facto Army",
+      "published_label": "2026-08-29",
+      "views": 457387,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 87,
+      "reason": "機械一次評価。公開後約6.4日、1日平均約71,419再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "lwjNZa1Hr2s",
+      "title": "ఒక చిన్న చేప... రాక్షసిలా మారితే? 😱 | 5 Dangerous Pets #shorts #telugufacts #amazingfacts",
+      "url": "https://www.youtube.com/shorts/lwjNZa1Hr2s",
+      "channel": "Satya's talks01",
+      "published_label": "2026-08-29",
+      "views": 421362,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 87,
+      "reason": "機械一次評価。公開後約6.43日、1日平均約65,513再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "34RswJIqG0Q",
+      "title": "इन Animals के पास अजीब शक्तियां हैं 😱 #shorts #viral #facts #trending #youtubeshorts #animals#islam",
+      "url": "https://www.youtube.com/shorts/34RswJIqG0Q",
+      "channel": "Golu editor 747",
+      "published_label": "2026-08-29",
+      "views": 983146,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 86,
+      "reason": "機械一次評価。公開後約6.36日、1日平均約154,536再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "IUliSnSc_MU",
+      "title": "புலியை பார்த்தாலே யானை ஓடுமா? 😳 | Tiger vs Elephant Facts 🔥 #shorts #tamil",
+      "url": "https://www.youtube.com/shorts/IUliSnSc_MU",
+      "channel": "shortsfacttamil",
+      "published_label": "2026-08-29",
+      "views": 940623,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 86,
+      "reason": "機械一次評価。公開後約6.21日、1日平均約151,496再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "e9kzw2hU_6U",
+      "title": "Why Does My Cat SLAP Me for No Reason #shorts",
+      "url": "https://www.youtube.com/shorts/e9kzw2hU_6U",
+      "channel": "Low Poly Stories",
+      "published_label": "2026-08-29",
+      "views": 305390,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 86,
+      "reason": "機械一次評価。公開後約5.54日、1日平均約55,165再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
+    },
+    {
+      "video_id": "noDhbI01wss",
+      "title": "சிங்கத்தையே ஆளும் பெண் சிங்கம்👑🐾🦁| Alfriffy | #lioness #facts #shorts",
+      "url": "https://www.youtube.com/shorts/noDhbI01wss",
+      "channel": "Alfriffy",
+      "published_label": "2026-08-28",
+      "views": 865112,
+      "category": "animal",
+      "category_label": "動物・生態",
+      "score": 85,
+      "reason": "機械一次評価。公開後約6.86日、1日平均約126,121再生。フック・構成・権利・事実は人間の確認が必要。",
+      "japanese_ideas": [
+        "元動画の疑問を、日本の日常例で説明する",
+        "同じ仕組みが起きる別の対象と比較する",
+        "結論を先に見せ、理由を図解する"
+      ],
+      "demo": false
     }
   ]
 }
